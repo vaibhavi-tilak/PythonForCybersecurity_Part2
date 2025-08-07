@@ -1,0 +1,16 @@
+192.168.1.1 443 server1.local
+203.0.113.5 22 SSH login failed  
+10.0.0.25 3306 Database connection established  
+198.51.100.7 80 HTTP request received  
+172.16.45.30 8080 Proxy access granted  
+192.168.2.15 3389 RDP login attempt  
+198.51.100.25 443 API request authenticated  
+203.0.113.10 1194 VPN connection established  
+192.168.3.50 80 Web request served  
+172.16.22.11 445 SMB file access  
+10.0.1.100 22 SSH login success  
+192.168.4.5 53 DNS query resolved  
+203.0.113.200 443 TLS handshake completed  
+172.16.5.8 514 Syslog message received  
+10.10.10.10 23 Telnet connection attempt  
+172.16.22.11 445 SMB file access
